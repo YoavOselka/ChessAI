@@ -9,9 +9,9 @@ This is a chess engine project built using Python and Pygame. It includes AI cap
 
 ## File Structure
 
-- `ChessMain.py`: The main file to run the game.
-- `ChessGameLogic.py`: Contains the core logic and mechanics of the game.
-- `ChessAIEngine.py`: Implements the AI algorithms and evaluation functions.
+- `ChessRun.py`: The main file to run the game.
+- `ChessLogic.py`: Contains the core logic and mechanics of the game.
+- `AIPlayer.py`: Implements the AI algorithms and evaluation functions.
 
 ## How to Play
 
